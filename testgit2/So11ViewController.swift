@@ -1,5 +1,5 @@
 //
-//  2ViewController.swift
+//  So11ViewController.swift
 //  testgit2
 //
 //  Created by Dukkk on 22/05/2025.
@@ -7,11 +7,11 @@
 
 import UIKit
 
-class So2ViewController: UIViewController {
+class So11ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("so hai")
+print("so 11")
         // Do any additional setup after loading the view.
     }
     
