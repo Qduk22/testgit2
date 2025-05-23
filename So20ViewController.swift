@@ -15,6 +15,8 @@ class So20ViewController: UIViewController {
 print("so20")
         print ("so29")
         
+        print("so303")
+        
         
         print ("cheri push")
         // Do any additional setup after loading the view.
