@@ -21,6 +21,7 @@ print("so20")
         print ("cheri push")
         print ("444")
         print ("555")
+        print ("666")
         // Do any additional setup after loading the view.
         
     }
